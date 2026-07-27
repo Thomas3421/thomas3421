@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Thomas Mathew 👋
 
-<!--
-**Thomas3421/thomas3421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student majoring in Artificial Intelligence at Swinburne University of Technology.
 
-Here are some ideas to get you started:
+I'm passionate about software development and AI, and I'm currently building projects to strengthen my skills in backend development, artificial intelligence, and accessibility-focused technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On
+- School Management System (Flask + MySQL)
+- AI Accessibility Assistant
+- AI Memory Core
+
+## Tech Stack
+- Python
+- Java
+- SQL
+- HTML & CSS
+- Flask
+- Bootstrap
+- MySQL
+- Firebase
+- Git & GitHub
+
+## Currently Learning
+- Data Structures & Algorithms
+- Backend Development
+- Artificial Intelligence
+- Cloud Computing
+
+## Connect
+- LinkedIn: (we'll add your LinkedIn URL)
+- Email: thomasmathew3421@gmail.com
