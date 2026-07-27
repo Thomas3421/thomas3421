@@ -27,5 +27,4 @@ I'm passionate about software development and AI, and I'm currently building pro
 - Cloud Computing
 
 ## Connect
-- LinkedIn: (we'll add your LinkedIn URL)
 - Email: thomasmathew3421@gmail.com
