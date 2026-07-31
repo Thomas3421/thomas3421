@@ -1,13 +1,12 @@
 # Hi, I'm Thomas Mathew 👋
 
-Bachelor of Computer Science student majoring in Artificial Intelligence at Swinburne University of Technology.
+I'm a Computer Science (Artificial Intelligence) student at Swinburne University of Technology with a passion for AI and software development. Alongside my studies, I work as an AI Training & Evaluation Specialist at Outlier AI, helping improve AI systems through human feedback. I enjoy building projects, learning new technologies, and solving real-world problems.
 
-I'm passionate about software development and AI, and I'm currently building projects to strengthen my skills in backend development, artificial intelligence, and accessibility-focused technology.
-
-## Currently Working On
-- 📚 School Management System — Flask & MySQL web application
-- ♿ AI Accessibility Assistant — AI-powered accessibility tools
-- 🧠 AI Memory Core — Context-aware AI memory system
+## 🚀 Currently Working On
+- 🤖 AI Training & Evaluation @ Outlier AI — Evaluating and improving large language model (LLM) responses through human feedback and quality assessment.
+- 💻 School Management System — Full-stack Flask & MySQL web application.
+- ♿ AI Accessibility Assistant — AI-powered accessibility platform.
+- 🧠 AI Memory Core — Context-aware AI memory system powered by LLMs.
 
 
 ## Tech Stack
